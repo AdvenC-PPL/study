@@ -1,2 +1,2 @@
-# study
-Study
+# learn Git
+Learn Git
